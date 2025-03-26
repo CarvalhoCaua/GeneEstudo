@@ -47,5 +47,3 @@ def GeneEstudoV1(gene):
     print(dataframe)
     dataframe.to_csv('dataframe.csv')
 
-
-GeneEstudoV1("GATGGAACTTGACTACGTAAATT")
